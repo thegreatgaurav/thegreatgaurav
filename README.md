@@ -77,3 +77,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer"/>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thegreatgaurav/thegreatgaurav/output/github-contribution-grid-snake.svg" />
+</div>
