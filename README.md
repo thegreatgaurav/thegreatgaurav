@@ -72,9 +72,19 @@
 
 ## 📊 LeetCode Analytics
 
+<!-- Primary (stable) -->
+
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=gauravdhikale18&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/gauravdhikale18?theme=dark&font=baloo&ext=heatmap" />
 </p>
+
+<!-- Fallback (if above fails, uncomment below and comment above) -->
+
+<!--
+<p align="center">
+  <img src="https://leetcode.card.workers.dev/gauravdhikale18?theme=dark&font=baloo" />
+</p>
+-->
 
 ---
 
