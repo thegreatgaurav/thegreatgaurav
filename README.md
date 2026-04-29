@@ -64,27 +64,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thegreatgaurav&theme=tokyonight" width="100%"/>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thegreatgaurav/thegreatgaurav/output/snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 📊 LeetCode Analytics
 
-<!-- Primary (stable) -->
-
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/gauravdhikale18?theme=dark&font=baloo&ext=heatmap" />
 </p>
-
-<!-- Fallback (if above fails, uncomment below and comment above) -->
-
-<!--
-<p align="center">
-  <img src="https://leetcode.card.workers.dev/gauravdhikale18?theme=dark&font=baloo" />
-</p>
--->
 
 ---
 
