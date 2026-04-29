@@ -32,6 +32,7 @@
       <b>Backend & Frameworks</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux" width="240"/><br>
@@ -42,6 +43,7 @@
       <b>Databases</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp" width="240"/><br>
@@ -62,9 +64,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thegreatgaurav&theme=tokyonight" width="100%"/>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thegreatgaurav/thegreatgaurav/output/snake.svg" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thegreatgaurav/thegreatgaurav/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thegreatgaurav/thegreatgaurav/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/thegreatgaurav/thegreatgaurav/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
