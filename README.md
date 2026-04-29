@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/thegreatgaurav">
-        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-    <a href="https://leetcode.com/gauravdhikale18">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
-    </a>
-    <a href="mailto:gauravdhikale23@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
+  <a href="https://github.com/thegreatgaurav">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/gauravdhikale18">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+  </a>
+  <a href="mailto:gauravdhikale23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -32,7 +32,6 @@
       <b>Backend & Frameworks</b>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux" width="240"/><br>
@@ -43,14 +42,13 @@
       <b>Databases</b>
     </td>
   </tr>
-
   <tr>
     <td align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp" width="240"/><br>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp" width="240"/><br>
       <b>Tools & DevOps</b>
     </td>
     <td align="center">
-       <img src="https://skillicons.dev/icons?i=pandas,numpy" width="120"/><br>
+      <img src="https://skillicons.dev/icons?i=pandas,numpy" width="120"/><br>
       <b>Data Science</b>
     </td>
   </tr>
@@ -63,6 +61,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=thegreatgaurav&theme=tokyonight" width="100%"/>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/thegreatgaurav/thegreatgaurav/output/snake.svg" />
+</div>
 
 ---
 
@@ -77,7 +79,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=120&section=footer"/>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/thegreatgaurav/thegreatgaurav/output/github-contribution-grid-snake.svg" />
-</div>
