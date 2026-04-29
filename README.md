@@ -1,14 +1,20 @@
 <h1 align="center">⚡ Gaurav Dhikale ⚡</h1>
-<h3 align="center">Aspiring Data Scientist | Web Developer | Problem Solver</h3>
+<h3 align="center">Data Science & Web Development Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Real+World+Projects;Data+Science+%7C+Web+Development;Learning+Everyday+%26+Improving;Focused+on+Career+Growth&center=true&width=600&height=45&color=00FFD1&vCenter=true&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Real+World+Projects;Data+Science+%7C+Web+Development;Consistent+Learning+%26+Growth;Focused+on+Placements&center=true&width=600&height=45&color=00FFD1&vCenter=true&pause=1000">
 </p>
 
 <p align="center">
-    <a href="https://github.com/thegreatgaurav"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-    <a href="https://leetcode.com/gauravdhikale18"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-    <a href="mailto:gauravdhikale23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/thegreatgaurav">
+        <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://leetcode.com/gauravdhikale18">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">
+    </a>
+    <a href="mailto:gauravdhikale23@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
 </p>
 
 ---
@@ -18,33 +24,33 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,js,cpp" width="240" height="240"/><br>
+      <img src="https://skillicons.dev/icons?i=python,java,js,cpp" width="240"/><br>
       <b>Languages</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs" width="240" height="240"/><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs" width="240"/><br>
       <b>Backend & Frameworks</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux" width="240" height="240"/><br>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux" width="240"/><br>
       <b>Frontend</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" width="240" height="240"/><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" width="240"/><br>
       <b>Databases</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp" width="240" height="240"/><br>
+       <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp" width="240"/><br>
       <b>Tools & DevOps</b>
     </td>
     <td align="center">
-       <img src="https://skillicons.dev/icons?i=pandas,numpy" width="120" height="120"/><br>
+       <img src="https://skillicons.dev/icons?i=pandas,numpy" width="120"/><br>
       <b>Data Science</b>
     </td>
   </tr>
@@ -67,7 +73,7 @@
 ## 📊 LeetCode Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/gauravdhikale18?ext=heatmap" />
+  <img src="https://leetcode-stats.vercel.app/api?username=gauravdhikale18&theme=dark" />
 </p>
 
 ---
