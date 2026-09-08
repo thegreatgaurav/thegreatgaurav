@@ -19,39 +19,43 @@
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🛠️ Tech Stack
 
+<table>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,js,cpp" width="240"/><br>
-      <b>Languages</b>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=python,java,js,cpp" /><br>
+      <strong>Languages</strong>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs" width="240"/><br>
-      <b>Backend & Frameworks</b>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs" /><br>
+      <strong>Backend & Frameworks</strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux" width="240"/><br>
-      <b>Frontend</b>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,redux" /><br>
+      <strong>Frontend</strong>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" width="240"/><br>
-      <b>Databases</b>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><br>
+      <strong>Databases</strong>
     </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp" width="240"/><br>
-      <b>Tools & DevOps</b>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,postman,gcp" /><br>
+      <strong>Tools & DevOps</strong>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pandas,numpy" width="120"/><br>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=pandas,numpy" /><br>
+      <strong>Data & Analytics</strong>
+    </td>
+  </tr>
+</table>
 
-    
 ---
 
 ## 📊 GitHub Analytics
