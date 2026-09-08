@@ -77,7 +77,7 @@
 ## 📊 LeetCode Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/gauravdhikale18?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/dishachaduari2306?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
