@@ -51,11 +51,7 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=pandas,numpy" width="120"/><br>
-      <b>Data Science</b>
-    </td>
-  </tr>
-</table>
-
+    
 ---
 
 ## 📊 GitHub Analytics
