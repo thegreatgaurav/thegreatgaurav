@@ -21,7 +21,6 @@
 
 ## 🛠️ Tech Stack & Arsenal
 
-<table align="center">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=python,java,js,cpp" width="240"/><br>
@@ -51,6 +50,7 @@
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=pandas,numpy" width="120"/><br>
+
     
 ---
 
