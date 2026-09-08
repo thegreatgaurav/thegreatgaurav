@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Gaurav Dhikale ⚡</h1>
+<h1 align="center">⚡ Disha Chaudhari ⚡</h1>
 <h3 align="center">Data Science & Web Development Enthusiast | Problem Solver</h3>
 
 <p align="center">
